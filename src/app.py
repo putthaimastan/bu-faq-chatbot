@@ -1,3 +1,6 @@
+# คำสั่งรัน streamlit
+# streamlit run src/app.py
+
 import streamlit as st
 import requests
 import json
