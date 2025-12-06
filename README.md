@@ -33,7 +33,7 @@ bu-faq-chatbot/
 1. **Clone the repository** (or download the files)
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/putthaimastan/bu-faq-chatbot.git
    cd bu-faq-chatbot
    ```
 
