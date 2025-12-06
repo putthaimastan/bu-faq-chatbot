@@ -20,7 +20,7 @@ bu-faq-chatbot/
 ├── bu_faq_data.json       # FAQ knowledge base
 ├── .env                   # Environment variables
 ├── requirements.txt       # Python dependencies
-└── README.md             # This file
+└── README.md             
 ```
 
 ## 🔧 Prerequisites
