@@ -1,0 +1,9 @@
+# Backend Dependencies
+fastapi
+uvicorn
+groq
+python-dotenv
+pydantic
+streamlit
+requests
+python-multipart
